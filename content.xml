@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260517141912C0YWX0</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260517141912RVADWC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SITUACIÓN DE APRENDIZAJE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>EL AGUA EN NUESTRA VIDA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ANA MÁRQUEZ SILLERO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje está dirigida al alumnado de 4 años de Educación Infantil. Su desarrollo se llevará a cabo a lo largo de dos semanas y en ella se integran las tres áreas curriculares propias de esta etapa educativa.
+
+La finalidad principal de esta propuesta es que el alumnado conozca e identifique los diferentes usos del agua en la vida cotidiana, experimente de manera directa con este elemento y adquiera hábitos relacionados con su cuidado y uso responsable. Asimismo, se pretende favorecer la expresión y comunicación a través de distintos lenguajes y formas de representación.
+
+Para ello, se desarrollarán diversas actividades adaptadas a las características evolutivas del alumnado, tales como juegos y experimentos, conversaciones guiadas, cuentos, canciones y diferentes producciones artísticas, entre otras propuestas de carácter lúdico y participativo.
+
+La elección del agua como eje principal responde a su gran capacidad para despertar el interés y la motivación del alumnado de estas edades. Además, se trata de un contenido cercano a su realidad cotidiana, lo que favorece un aprendizaje significativo, experiencial y sensorial.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779018629376</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp9prbnl-9fiozrza4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción y presentación de la Situación de Aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción y presentación de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción y presentación de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción y presentación de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbnl-9fiozrza4</odePageId>
+      <odeBlockId>block-1779007625136-dirykme4f</odeBlockId>
+      <blockName>El agua en nuestra vida</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbnl-9fiozrza4</odePageId>
+          <odeBlockId>block-1779007625136-dirykme4f</odeBlockId>
+          <odeIdeviceId>idevice-1779007625124-qgyqmyof6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta situación de aprendizaje está dirigida al alumnado de 4 años de Educación Infantil. Su desarrollo se llevará a cabo a lo largo de dos semanas y en ella se integran las tres áreas curriculares propias de esta etapa educativa.</p>
+<p style="text-align: justify;">La finalidad principal de esta propuesta es que el alumnado conozca e identifique los diferentes usos del agua en la vida cotidiana, experimente de manera directa con este elemento y adquiera hábitos relacionados con su cuidado y uso responsable. Asimismo, se pretende favorecer la expresión y comunicación a través de distintos lenguajes y formas de representación.</p>
+<p style="text-align: justify;">Para ello, se desarrollarán diversas actividades adaptadas a las características evolutivas del alumnado, tales como juegos y experimentos, conversaciones guiadas, cuentos, canciones y diferentes producciones artísticas, entre otras propuestas de carácter lúdico y participativo.</p>
+<p style="text-align: justify;">La elección del agua como eje temático responde a su gran capacidad para despertar el interés y la motivación del alumnado de estas edades. Además, se trata de un contenido cercano a su realidad cotidiana, lo que favorece un aprendizaje significativo, experiencial y sensorial.<br /></p>
+<p style="text-align: justify;">A continuación se adjunta un enlace sobre la presentación de la misma: "<a href="https://canva.link/19ftpd84rhywqso" target="_blank" title="" rel="noopener">El agua en nuestra vida</a>".<br /> </p>
+<p><img src="{{context_path}}/content/resources/agua.jpg" width="794" height="441" alt="" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779007625124-qgyqmyof6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje está dirigida al alumnado de 4 años de Educación Infantil. Su desarrollo se llevará a cabo a lo largo de dos semanas y en ella se integran las tres áreas curriculares propias de esta etapa educativa.</p>\n<p style=\"text-align: justify;\">La finalidad principal de esta propuesta es que el alumnado conozca e identifique los diferentes usos del agua en la vida cotidiana, experimente de manera directa con este elemento y adquiera hábitos relacionados con su cuidado y uso responsable. Asimismo, se pretende favorecer la expresión y comunicación a través de distintos lenguajes y formas de representación.</p>\n<p style=\"text-align: justify;\">Para ello, se desarrollarán diversas actividades adaptadas a las características evolutivas del alumnado, tales como juegos y experimentos, conversaciones guiadas, cuentos, canciones y diferentes producciones artísticas, entre otras propuestas de carácter lúdico y participativo.</p>\n<p style=\"text-align: justify;\">La elección del agua como eje temático responde a su gran capacidad para despertar el interés y la motivación del alumnado de estas edades. Además, se trata de un contenido cercano a su realidad cotidiana, lo que favorece un aprendizaje significativo, experiencial y sensorial.<br /></p>\n<p style=\"text-align: justify;\">A continuación se adjunta un enlace sobre la presentación de la misma: \"<a href=\"https://canva.link/19ftpd84rhywqso\" target=\"_blank\" title=\"\" rel=\"noopener\">El agua en nuestra vida</a>\".<br /> </p>\n<p><img src=\"{{context_path}}/content/resources/agua.jpg\" width=\"794\" height=\"441\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbno-e9gpppiq6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbno-e9gpppiq6</odePageId>
+      <odeBlockId>block-1779008134432-bmzrttr0c</odeBlockId>
+      <blockName>Infografía sobre uso seguro de internet</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbno-e9gpppiq6</odePageId>
+          <odeBlockId>block-1779008134432-bmzrttr0c</odeBlockId>
+          <odeIdeviceId>idevice-1779008134428-lti6gri1g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El uso seguro se internet debe conocerse desde edades tempranas ya que está a la orden del día en nuestra sociedad. Por esta razón, es importante que el alumnado de 4 años comience a conocer hábitos básicos para el uso seguro de internet, ya que las tecnologías digitales forman parte de su entorno cotidiano. A través de orientaciones adaptadas a su edad, pueden aprender a utilizar los dispositivos de manera responsable, pedir ayuda a las personas adultas cuando sea necesario y comprender la importancia de cuidar su información personal.</p>
+<p style="text-align: justify;">Para trasladar esa información al alumnado, se ha creado una infografía que facilita su comprensión.</p>
+<p><img src="{{context_path}}/content/resources/INFOGRAFÍA.jpg" width="407" height="857" alt="" title="Infografía" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779008134428-lti6gri1g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El uso seguro se internet debe conocerse desde edades tempranas ya que está a la orden del día en nuestra sociedad. Por esta razón, es importante que el alumnado de 4 años comience a conocer hábitos básicos para el uso seguro de internet, ya que las tecnologías digitales forman parte de su entorno cotidiano. A través de orientaciones adaptadas a su edad, pueden aprender a utilizar los dispositivos de manera responsable, pedir ayuda a las personas adultas cuando sea necesario y comprender la importancia de cuidar su información personal.</p>\n<p style=\"text-align: justify;\">Para trasladar esa información al alumnado, se ha creado una infografía que facilita su comprensión.</p>\n<p><img src=\"{{context_path}}/content/resources/INFOGRAFÍA.jpg\" width=\"407\" height=\"857\" alt=\"\" title=\"Infografía\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbno-txiyeyojh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbno-txiyeyojh</odePageId>
+      <odeBlockId>block-1779009793942-mm2buppji</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbno-txiyeyojh</odePageId>
+          <odeBlockId>block-1779009793942-mm2buppji</odeBlockId>
+          <odeIdeviceId>idevice-1779009793936-597bd162q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como producto final de esta situación de aprendizaje, el alumnado elaborará un libro digital titulado "¿Para qué usamos el agua?". Dicho libro se compartirá con las familias y la comunidad educativa. </p>
+<p style="text-align: justify;">La herramienta que se utilizará para su creación será Book Creator, un creador de libros digital. </p>
+<p><img src="{{context_path}}/content/resources/book.jpg" width="150" height="150" alt="" title="Book creator" /></p>
+<p style="text-align: justify;">El objetivo principal es poder crear de manera colaborativa un libro digital sobre los diferentes usos de agua en nuestra vida cotidiana.</p>
+<p style="text-align: justify;">Book Creator es una herramienta muy visual, intuitiva y sencilla que se adapta a la edad de 4 años. La elaboración conjunta del libro digital fomenta su participación y colaboración entre iguales. Además, es una herramienta muy versátil porque permite integrar imágenes, texto, incluso audio y vídeos.</p>
+<p style="text-align: justify;">Otra ventaja es que puede utilizarse fácilmente desde tablets y los ordenadores del aula. Por supuesto siempre con la supervisión y acompañamiento del o la docente. Además, se podrá utilizar Canva para complementar el contenido que se puede añadir en el libro digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779009793936-597bd162q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como producto final de esta situación de aprendizaje, el alumnado elaborará un libro digital titulado \"¿Para qué usamos el agua?\". Dicho libro se compartirá con las familias y la comunidad educativa. </p>\n<p style=\"text-align: justify;\">La herramienta que se utilizará para su creación será Book Creator, un creador de libros digital. </p>\n<p><img src=\"{{context_path}}/content/resources/book.jpg\" width=\"150\" height=\"150\" alt=\"\" title=\"Book creator\" /></p>\n<p style=\"text-align: justify;\">El objetivo principal es poder crear de manera colaborativa un libro digital sobre los diferentes usos de agua en nuestra vida cotidiana.</p>\n<p style=\"text-align: justify;\">Book Creator es una herramienta muy visual, intuitiva y sencilla que se adapta a la edad de 4 años. La elaboración conjunta del libro digital fomenta su participación y colaboración entre iguales. Además, es una herramienta muy versátil porque permite integrar imágenes, texto, incluso audio y vídeos.</p>\n<p style=\"text-align: justify;\">Otra ventaja es que puede utilizarse fácilmente desde tablets y los ordenadores del aula. Por supuesto siempre con la supervisión y acompañamiento del o la docente. Además, se podrá utilizar Canva para complementar el contenido que se puede añadir en el libro digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbnp-pavjwl3ct</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbnp-pavjwl3ct</odePageId>
+      <odeBlockId>block-1779010250405-bkbm3wk1v</odeBlockId>
+      <blockName>PADLET Y WAKELET</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbnp-pavjwl3ct</odePageId>
+          <odeBlockId>block-1779010250405-bkbm3wk1v</odeBlockId>
+          <odeIdeviceId>idevice-1779010250403-nmtuxeyz5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En este apartado se incluyen las herramientas de curación de contenidos que han sido utilizadas para la recopilación de recuros. Han sido dos herramientas las que se han utilizado: por un lado tenemos Padlet, la cual ha sido la elegida para el alumnado. Por otro lado tenemos Wakelet, diseñada para el o la docente. </p>
+<ul>
+<li style="text-align: justify;">Padlet: herramienta utilizada para la recopilación de recursos para el alumnado sobre “Los usos del agua”. En esta recopilación se incluye:</li>
+</ul>
+<p>- Vídeo educativo sobre los usos del agua.<br title="" />- Canciones infantiles relacionadas con el agua.<br />- Enlace a cuento.<br />- Juegos.<br />- Imágenes.<br />- Vídeo de experimentos sencillos.<br />Enlace público: <a href="https://padlet.com/amarsil986/los-usos-del-agua-xxn6mz60ovkucx3j" target="_blank" rel="noopener">Padlet “Los usos del agua”</a>.</p>
+<p><img src="{{context_path}}/content/resources/padlet.jpg" width="1500" height="721" alt="" title="Padelt" /></p>
+<ul>
+<li style="text-align: justify;">Wakelet: en esta recopilación se incluyen herramientas y aplicaciones que utilizo habitualmente en mi práctica docente, como: </li>
+</ul>
+<p>- Canva for Education para crear materiales visuales.<br title="" />- Book Creator para cuentos y portfolios digitales.<br />- YouTube Kids para vídeos educativos adaptados.<br />- Bancos de recursos y páginas educativas para Infantil.<br />Enlace público: <a href="https://wakelet.com/wake/XThUZfMgDILwZw_q7Fmf5" target="_blank" rel="noopener">Wakelet “Herramientas digitales”</a>.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779010250403-nmtuxeyz5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En este apartado se incluyen las herramientas de curación de contenidos que han sido utilizadas para la recopilación de recuros. Han sido dos herramientas las que se han utilizado: por un lado tenemos Padlet, la cual ha sido la elegida para el alumnado. Por otro lado tenemos Wakelet, diseñada para el o la docente. </p>\n<ul>\n<li style=\"text-align: justify;\">Padlet: herramienta utilizada para la recopilación de recursos para el alumnado sobre “Los usos del agua”. En esta recopilación se incluye:</li>\n</ul>\n<p>- Vídeo educativo sobre los usos del agua.<br title=\"\" />- Canciones infantiles relacionadas con el agua.<br />- Enlace a cuento.<br />- Juegos.<br />- Imágenes.<br />- Vídeo de experimentos sencillos.<br />Enlace público: <a href=\"https://padlet.com/amarsil986/los-usos-del-agua-xxn6mz60ovkucx3j\" target=\"_blank\" rel=\"noopener\">Padlet “Los usos del agua”</a>.</p>\n<p><img src=\"{{context_path}}/content/resources/padlet.jpg\" width=\"1500\" height=\"721\" alt=\"\" title=\"Padelt\" /></p>\n<ul>\n<li style=\"text-align: justify;\">Wakelet: en esta recopilación se incluyen herramientas y aplicaciones que utilizo habitualmente en mi práctica docente, como: </li>\n</ul>\n<p>- Canva for Education para crear materiales visuales.<br title=\"\" />- Book Creator para cuentos y portfolios digitales.<br />- YouTube Kids para vídeos educativos adaptados.<br />- Bancos de recursos y páginas educativas para Infantil.<br />Enlace público: <a href=\"https://wakelet.com/wake/XThUZfMgDILwZw_q7Fmf5\" target=\"_blank\" rel=\"noopener\">Wakelet “Herramientas digitales”</a>.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbnq-3qpojrpzb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbnq-3qpojrpzb</odePageId>
+      <odeBlockId>block-1779010966325-2igm7lc6r</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbnq-3qpojrpzb</odePageId>
+          <odeBlockId>block-1779010966325-2igm7lc6r</odeBlockId>
+          <odeIdeviceId>idevice-1779010966314-vlzn0je1s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La siguiente línea temporal muestra de forma resumida y organizada las actividades y tareas de la situación de aprendizaje que se llevarán a cabo. </p>
+<p style="text-align: justify;">Esta línea sirve de guía visual para que el alumnado pueda contemplar las distintas actividades. En ella se incluyen las tareas que deben realizar, la organización temporal, agrupamientos, herramientas que utilizarán de manera colaborativa, los espacios y los recursos técnicos.</p>
+<p style="text-align: justify;">La herramienta que se ha utilizado para su creación ha sido CANVA.</p>
+<p><img src="{{context_path}}/content/resources/linea temporal.jpg" width="1536" height="864" alt="" title="Línea temporal" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779010966314-vlzn0je1s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La siguiente línea temporal muestra de forma resumida y organizada las actividades y tareas de la situación de aprendizaje que se llevarán a cabo. </p>\n<p style=\"text-align: justify;\">Esta línea sirve de guía visual para que el alumnado pueda contemplar las distintas actividades. En ella se incluyen las tareas que deben realizar, la organización temporal, agrupamientos, herramientas que utilizarán de manera colaborativa, los espacios y los recursos técnicos.</p>\n<p style=\"text-align: justify;\">La herramienta que se ha utilizado para su creación ha sido CANVA.</p>\n<p><img src=\"{{context_path}}/content/resources/linea temporal.jpg\" width=\"1536\" height=\"864\" alt=\"\" title=\"Línea temporal\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbnr-ujfzzcad8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbnr-ujfzzcad8</odePageId>
+      <odeBlockId>block-1779012462993-hbayckc8r</odeBlockId>
+      <blockName>Criterios de evaluación y tareas</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbnr-ujfzzcad8</odePageId>
+          <odeBlockId>block-1779012462993-hbayckc8r</odeBlockId>
+          <odeIdeviceId>idevice-1779012462992-u8wyeq0ou</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la siguiente tabla se encuentran las distintas tareas con sus correspondientes criterios de evaluación que se llevarán a cabo en la situación de aprendizaje.</p>
+<table border="1" style="width: 100.047%; height: 744px;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 33.3649%; height: 32.8px; text-align: center;"><strong>TAREA</strong></td>
+<td style="width: 6.41453%; height: 32.8px;"><br /></td>
+<td style="width: 60.3152%; height: 32.8px; text-align: center;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 33.3649%; height: 80.8px;">
+<p>Identificar los usos del agua en la vida cotidiana. </p>
+<p><img src="{{context_path}}/content/resources/1TAREA.jpg" width="232" height="161" alt="" title="Tarea 1" /></p>
+</td>
+<td style="width: 6.41453%; height: 80.8px;"><br /></td>
+<td style="width: 60.3152%; height: 80.8px;">3.1 Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa. </td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 33.3649%; height: 80.8px;">
+<p>Desarrollar hábitos de cuidado del agua.</p>
+<p><img src="{{context_path}}/content/resources/2TAREA.jpg" width="180" height="153" alt="" title="Tarea 2" /></p>
+</td>
+<td style="width: 6.41453%; height: 80.8px;"><br /></td>
+<td style="width: 60.3152%; height: 80.8px;">3.1 Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos. </td>
+</tr>
+<tr style="height: 184.8px;">
+<td style="width: 33.3649%; height: 184.8px;">
+<p>Cuentos y canciones relacionadas con el agua.</p>
+<p><img src="{{context_path}}/content/resources/3TAREA.jpg" width="213" height="152" alt="" title="Tarea 3" /></p>
+</td>
+<td style="width: 6.41453%; height: 184.8px;"><br /></td>
+<td style="width: 60.3152%; height: 184.8px;">
+<p>3.5 Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas. </p>
+<p>5.3 Participar en actividades de aproximación a la literatura infantil, tanto de carácter individual, como en contextos dialógicos y participativos, descubriendo, explorando y apreciando la belleza del lenguaje literario. </p>
+</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 33.3649%; height: 80.8px;">
+<p>El agua en el arte. </p>
+<p><img src="{{context_path}}/content/resources/5TAREA.jpg" width="196" height="150" alt="" title="Tarea 4" /></p>
+</td>
+<td style="width: 6.41453%; height: 80.8px;"><br /></td>
+<td style="width: 60.3152%; height: 80.8px;">3.4 Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise. </td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 33.3649%; height: 80.8px;">
+<p> Juegos y experimentos: trasvases, flotación, disolución.<br /></p>
+<p><img src="{{context_path}}/content/resources/8TAREA.jpg" width="189" height="150" alt="" title="Tarea 5" /></p>
+</td>
+<td style="width: 6.41453%; height: 80.8px;"><br /></td>
+<td style="width: 60.3152%; height: 80.8px;">2.3 Plantear hipótesis acerca del comportamiento de ciertos elementos o materiales, verificándolas a través de la manipulación y la actuación sobre ellos.  </td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 33.3649%; height: 80.8px;">
+<p>Salida al entorno. Búsqueda de lugares con agua en la localidad.<br /></p>
+<p><img src="{{context_path}}/content/resources/7TAREA.jpg" width="233" height="150" alt="" title="Tarea 6" /></p>
+</td>
+<td style="width: 6.41453%; height: 80.8px;"><br /></td>
+<td style="width: 60.3152%; height: 80.8px;">3.3 Establecer relaciones entre el medio natural y el social a partir del conocimiento y la observación de algunos fenómenos naturales y de los elementos patrimoniales presentes en el medio físico. </td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 33.3649%; height: 56.8px;">
+<p>Elaboración del libro digital. </p>
+<p><img src="{{context_path}}/content/resources/6TAREA.jpg" width="205" height="150" alt="" title="Tarea 7" /></p>
+</td>
+<td style="width: 6.41453%; height: 56.8px;"><br /></td>
+<td style="width: 60.3152%; height: 56.8px;">1.4 Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales. </td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 33.3649%; height: 32.8px;">
+<p>Exposición final de los aprendizajes.</p>
+<p><img src="{{context_path}}/content/resources/4TAREA.jpg" width="224" height="152" alt="" title="Tarea 8" /></p>
+</td>
+<td style="width: 6.41453%; height: 32.8px;"><br /></td>
+<td style="width: 60.3152%; height: 32.8px;">3.1 Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales. </td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779012462992-u8wyeq0ou","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la siguiente tabla se encuentran las distintas tareas con sus correspondientes criterios de evaluación que se llevarán a cabo en la situación de aprendizaje.</p>\n<table border=\"1\" style=\"width: 100.047%; height: 744px;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 33.3649%; height: 32.8px; text-align: center;\"><strong>TAREA</strong></td>\n<td style=\"width: 6.41453%; height: 32.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 32.8px; text-align: center;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 33.3649%; height: 80.8px;\">\n<p>Identificar los usos del agua en la vida cotidiana. </p>\n<p><img src=\"{{context_path}}/content/resources/1TAREA.jpg\" width=\"232\" height=\"161\" alt=\"\" title=\"Tarea 1\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 80.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 80.8px;\">3.1 Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa. </td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 33.3649%; height: 80.8px;\">\n<p>Desarrollar hábitos de cuidado del agua.</p>\n<p><img src=\"{{context_path}}/content/resources/2TAREA.jpg\" width=\"180\" height=\"153\" alt=\"\" title=\"Tarea 2\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 80.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 80.8px;\">3.1 Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos. </td>\n</tr>\n<tr style=\"height: 184.8px;\">\n<td style=\"width: 33.3649%; height: 184.8px;\">\n<p>Cuentos y canciones relacionadas con el agua.</p>\n<p><img src=\"{{context_path}}/content/resources/3TAREA.jpg\" width=\"213\" height=\"152\" alt=\"\" title=\"Tarea 3\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 184.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 184.8px;\">\n<p>3.5 Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas. </p>\n<p>5.3 Participar en actividades de aproximación a la literatura infantil, tanto de carácter individual, como en contextos dialógicos y participativos, descubriendo, explorando y apreciando la belleza del lenguaje literario. </p>\n</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 33.3649%; height: 80.8px;\">\n<p>El agua en el arte. </p>\n<p><img src=\"{{context_path}}/content/resources/5TAREA.jpg\" width=\"196\" height=\"150\" alt=\"\" title=\"Tarea 4\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 80.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 80.8px;\">3.4 Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise. </td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 33.3649%; height: 80.8px;\">\n<p> Juegos y experimentos: trasvases, flotación, disolución.<br /></p>\n<p><img src=\"{{context_path}}/content/resources/8TAREA.jpg\" width=\"189\" height=\"150\" alt=\"\" title=\"Tarea 5\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 80.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 80.8px;\">2.3 Plantear hipótesis acerca del comportamiento de ciertos elementos o materiales, verificándolas a través de la manipulación y la actuación sobre ellos.  </td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 33.3649%; height: 80.8px;\">\n<p>Salida al entorno. Búsqueda de lugares con agua en la localidad.<br /></p>\n<p><img src=\"{{context_path}}/content/resources/7TAREA.jpg\" width=\"233\" height=\"150\" alt=\"\" title=\"Tarea 6\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 80.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 80.8px;\">3.3 Establecer relaciones entre el medio natural y el social a partir del conocimiento y la observación de algunos fenómenos naturales y de los elementos patrimoniales presentes en el medio físico. </td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 33.3649%; height: 56.8px;\">\n<p>Elaboración del libro digital. </p>\n<p><img src=\"{{context_path}}/content/resources/6TAREA.jpg\" width=\"205\" height=\"150\" alt=\"\" title=\"Tarea 7\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 56.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 56.8px;\">1.4 Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales. </td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 33.3649%; height: 32.8px;\">\n<p>Exposición final de los aprendizajes.</p>\n<p><img src=\"{{context_path}}/content/resources/4TAREA.jpg\" width=\"224\" height=\"152\" alt=\"\" title=\"Tarea 8\" /></p>\n</td>\n<td style=\"width: 6.41453%; height: 32.8px;\"><br /></td>\n<td style=\"width: 60.3152%; height: 32.8px;\">3.1 Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales. </td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbnr-qdy7d7cww</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbnr-qdy7d7cww</odePageId>
+      <odeBlockId>block-1779013642755-zr3oume02</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbnr-qdy7d7cww</odePageId>
+          <odeBlockId>block-1779013642755-zr3oume02</odeBlockId>
+          <odeIdeviceId>idevice-1779013642753-e06ise0co</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las tareas que van a ser evaluadas durante esta situación de aprendizaje serán las siguientes:</p>
+<p> - Identificar los usos del agua en la vida cotidiana.<br /> - Desarrollar hábitos de cuidado del agua.<br /> - Escuchar cuentos y canciones relacionadas con el agua.<br /> - Realizar actividades de arte sobre el agua.<br /> - Participar en juegos y experimentos: trasvases, flotación y disolución.<br /> - Realizar una salida al entorno para buscar lugares con agua en la localidad.<br /> - Elaborar un libro digital.<br /> - Participar en la exposición final de los aprendizajes.</p>
+<p style="text-align: justify;">Los instrumentos de evaluación seleccionados para obtener datos tanto cuantitativos como cualitativos del alumnado en su proceso de aprendizaje durante esta situación de aprendizaje son los siguientes: lista de cotejo y diana de autoevaluación.</p>
+<p style="text-align: justify;">La lista de cotejo será utilizada por el o la docente para la evaluación, mientras que la diana de autoevaluación será el instrumento de evaluación que utilice el propio alumnado con ayuda del o la docente. </p>
+<p style="text-align: justify;">A continuación se muestra la lista de cotejo a utilizar:</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/lista.jpg" title="Lista de cotejo" width="613" height="329" alt="" /><br /></p>
+<p style="text-align: justify;">La diana de autoevaluación se utilizará al finalizar actividades importantes, después de la salida al entorno y tras la exposición final. Los aspectos que se evaluarán serán: la participación, el interés, el trabajo en equipo, el cuidado del agua y la comprensión de los aprendizajes.</p>
+<p>El alumnado coloreará la carita en la zona de la diana que represente cómo cree que se ha sentido o cómo valora su trabajo. Esa información permitirá fomentar la autoevaluación, desarrollar la conciencia sobre el propio aprendizaje, detectar las actividades que más le gustan y las que menos para así mejorar.</p>
+<p>A continuación se muestra la diana de autoevaluación:</p>
+<p> <img src="{{context_path}}/content/resources/diana.jpg" width="1120" height="810" alt="" title="Diana de autoevaluación" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779013642753-e06ise0co","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las tareas que van a ser evaluadas durante esta situación de aprendizaje serán las siguientes:</p>\n<p> - Identificar los usos del agua en la vida cotidiana.<br /> - Desarrollar hábitos de cuidado del agua.<br /> - Escuchar cuentos y canciones relacionadas con el agua.<br /> - Realizar actividades de arte sobre el agua.<br /> - Participar en juegos y experimentos: trasvases, flotación y disolución.<br /> - Realizar una salida al entorno para buscar lugares con agua en la localidad.<br /> - Elaborar un libro digital.<br /> - Participar en la exposición final de los aprendizajes.</p>\n<p style=\"text-align: justify;\">Los instrumentos de evaluación seleccionados para obtener datos tanto cuantitativos como cualitativos del alumnado en su proceso de aprendizaje durante esta situación de aprendizaje son los siguientes: lista de cotejo y diana de autoevaluación.</p>\n<p style=\"text-align: justify;\">La lista de cotejo será utilizada por el o la docente para la evaluación, mientras que la diana de autoevaluación será el instrumento de evaluación que utilice el propio alumnado con ayuda del o la docente. </p>\n<p style=\"text-align: justify;\">A continuación se muestra la lista de cotejo a utilizar:</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/lista.jpg\" title=\"Lista de cotejo\" width=\"613\" height=\"329\" alt=\"\" /><br /></p>\n<p style=\"text-align: justify;\">La diana de autoevaluación se utilizará al finalizar actividades importantes, después de la salida al entorno y tras la exposición final. Los aspectos que se evaluarán serán: la participación, el interés, el trabajo en equipo, el cuidado del agua y la comprensión de los aprendizajes.</p>\n<p>El alumnado coloreará la carita en la zona de la diana que represente cómo cree que se ha sentido o cómo valora su trabajo. Esa información permitirá fomentar la autoevaluación, desarrollar la conciencia sobre el propio aprendizaje, detectar las actividades que más le gustan y las que menos para así mejorar.</p>\n<p>A continuación se muestra la diana de autoevaluación:</p>\n<p> <img src=\"{{context_path}}/content/resources/diana.jpg\" width=\"1120\" height=\"810\" alt=\"\" title=\"Diana de autoevaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbns-qz5oe7t9c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbns-qz5oe7t9c</odePageId>
+      <odeBlockId>block-1779012432132-jr6zyw2p6</odeBlockId>
+      <blockName>Documento</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbns-qz5oe7t9c</odePageId>
+          <odeBlockId>block-1779012432132-jr6zyw2p6</odeBlockId>
+          <odeIdeviceId>idevice-1779012432131-z6ed7xpde</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En este apartado se facilita el documento que relaciona las tareas del proyecto con los criterios de evaluación. Incluye también otra información como los agrupamientos, tiempo aproximado y herramientas sugeridas para el alumnado. </p>
+<p style="text-align: justify;">Enlace al <a href="https://docs.google.com/document/d/1x5w55P6eimIZ0T1wGZ_qU2atZw1inZ7yMKpgDpH0l68/edit?usp=sharing" target="_blank" title="" rel="noopener">documento</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779012432131-z6ed7xpde","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En este apartado se facilita el documento que relaciona las tareas del proyecto con los criterios de evaluación. Incluye también otra información como los agrupamientos, tiempo aproximado y herramientas sugeridas para el alumnado. </p>\n<p style=\"text-align: justify;\">Enlace al <a href=\"https://docs.google.com/document/d/1x5w55P6eimIZ0T1wGZ_qU2atZw1inZ7yMKpgDpH0l68/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">documento</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9prbnt-c5udy1g1e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9prbnt-c5udy1g1e</odePageId>
+      <odeBlockId>block-1779012415599-plp2ivzsw</odeBlockId>
+      <blockName>Autoría y licencia</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9prbnt-c5udy1g1e</odePageId>
+          <odeBlockId>block-1779012415599-plp2ivzsw</odeBlockId>
+          <odeIdeviceId>idevice-1779012415598-w3frirg9h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong><br />Ana Márquez Sillero</p>
+<p><strong>Descripción:</strong><br />Situación de aprendizaje dirigida al alumnado de 4 años sobre el agua y sus usos en la vida cotidiana.<br /></p>
+<p><strong>Licencia de uso:</strong></p>
+<p>Creative Commons CC BY-NC-SA 4.0.</p>
+<p><strong>Archivo editable:</strong></p>
+<p>⇓ <a href="{{context_path}}/content/resources/sda_agua_4.elpx" title="sda_agua_4.elpx" target="_blank" rel="noopener">Descargar archivo editable</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779012415598-w3frirg9h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong><br />Ana Márquez Sillero</p>\n<p><strong>Descripción:</strong><br />Situación de aprendizaje dirigida al alumnado de 4 años sobre el agua y sus usos en la vida cotidiana.<br /></p>\n<p><strong>Licencia de uso:</strong></p>\n<p>Creative Commons CC BY-NC-SA 4.0.</p>\n<p><strong>Archivo editable:</strong></p>\n<p>⇓ <a href=\"{{context_path}}/content/resources/sda_agua_4.elpx\" title=\"sda_agua_4.elpx\" target=\"_blank\" rel=\"noopener\">Descargar archivo editable</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
